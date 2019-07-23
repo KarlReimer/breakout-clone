@@ -1,1 +1,1 @@
-show_debug_message("Hello World");
+show_debug_message("This is a bad idea");
